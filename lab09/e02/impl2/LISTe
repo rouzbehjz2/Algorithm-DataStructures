@@ -1,0 +1,12 @@
+# C client.c
+# C stackPublic.h
+C stackPrivate.h
+C stack.c
+# C item-int.h
+# C item-int.c
+# C item-string.h
+# C item-string.c
+# C item-struct.h
+# C item-struct.c
+# C util.h
+# C util.c
